@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunrajkt&label=Profile%20views&color=0e75b6&style=flat" alt="arunrajkt" /> </p>
 
-- 👨‍💻 All of my projects are available at [arunrajkt.netlify.app](arunrajkt.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio]([https://arunrajkt.netlify.app)]
 
 - 💬 Ask me about **Mern**
 
